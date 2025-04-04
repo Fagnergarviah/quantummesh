@@ -1,0 +1,6 @@
+network:
+  seed_nodes: ["192.168.1.100:5000", "192.168.1.101:5000"]
+  mesh_protocols: ["LoRa", "Bluetooth"]
+blockchain:
+  block_time: 480  # 8 minutos em segundos
+  initial_reward: 25  # QMC

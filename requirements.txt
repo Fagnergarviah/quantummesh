@@ -1,0 +1,6 @@
+oqs>=0.10.2
+grpcio==1.62.0
+flask==3.0.2
+cryptography==42.0.4
+oqs==0.10.2
+pytest==8.0.2

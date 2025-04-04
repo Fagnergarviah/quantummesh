@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>QuantumMesh Wallet</title>
+</head>
+<body>
+    <h1>Your QMC Balance: <span id="balance">0</span></h1>
+    <script>
+        fetch("/balance/your_address")
+            .then(res => res.json())
+            .then(data => document.getElementById("balance").innerText = data.balance);
+    </script>
+</body>
+</html>
