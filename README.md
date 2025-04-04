@@ -3,9 +3,9 @@
 
    # QuantumMesh Coin (QMC)  
 **A Primeira Criptomoeda Desenvolvida no Interior do Brasil**  
-*Por Fagner Garviah, o "Satoshi da Roça"*  
+*Por Fagner Garcia"*  
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-QuantumMesh-brightgreen)](https://github.com/Fagnergarviah/quantummesh)  
+[![GitHub (https://github.com/Fagnergarviah/quantummesh)  
 *"Nenhum banco, nenhum VC. Apenas código, um celular Android e a força do interior."*  
 
 ---
